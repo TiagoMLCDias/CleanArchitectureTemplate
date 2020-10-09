@@ -1,0 +1,9 @@
+### DotnetCore ###
+# Visual Studio files and folders
+*.suo
+*.user
+.vs/
+
+# .NET Core build folders
+bin/
+obj/
